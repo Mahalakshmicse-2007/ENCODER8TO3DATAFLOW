@@ -2,7 +2,7 @@
 
 **AIM:**
 
-To implement  Encoder 4 To 2 in Dataflow Modelling using verilog and validating their functionality using their functional tables
+To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
 **SOFTWARE REQUIRED:** Quartus prime
 
@@ -40,7 +40,7 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-/* Program for Encoder 4 To 2 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
+/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 ```
 module encoder4to2 (
     input  wire [3:0] in,   // 4 input lines
@@ -60,14 +60,14 @@ endmodule
 Developed by:Mahalakshmi M RegisterNumber:25105887
 */
 
-**RTL LOGIC FOR Encoder 4 To 2 in Dataflow Modelling**
+**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 <img width="984" height="686" alt="Screenshot 2025-11-22 134345" src="https://github.com/user-attachments/assets/9e643dbc-10c4-4e60-b159-0dcd602006ac" />
 
-**TIMING DIGRAMS FOR Encoder 4 To 2 in Dataflow Modelling**
+**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 <img width="1920" height="1080" alt="Screenshot 2025-11-22 134643" src="https://github.com/user-attachments/assets/7e61eec6-9304-4363-b728-57239dd146ca" />
 
 **RESULTS**
-thus the Encoder 4 To 2 in Dataflow Modelling using verilog and validating their functionality using their functional tables
+thus the Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables
 
 
 
